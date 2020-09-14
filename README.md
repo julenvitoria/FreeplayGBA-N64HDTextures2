@@ -1,11 +1,5 @@
 # FreeplayGBA-N64HDTextures
 
-Script to install N64 High Resolution Textures to use with Mupen64Plus Emulator
- 
-How to install
-Connect via ssh or insert this command  via terminak on your freeplay
+This repo is used as a container for various n64 HD textures. The main repo and the script installation is:
 
-    wget -O- https://raw.githubusercontent.com/julenvitoria/FreeplayGBA-N64HDTextures/master/N64HDTextures.sh | bash
-
-
-NOTE: IT'S NECCESARY THAT YOUR GBA HAS INTERNET CONNECTION.  THIS SCRIPT WORKS WITH ABSOLUTE PATHS.
+    https://github.com/julenvitoria/FreeplayGBA-N64HDTextures
